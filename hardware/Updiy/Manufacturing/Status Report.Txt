@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Updiy.PcbDoc]
+   Generated File[Updiy.TXT]
+   Generated File[Updiy.LDP]
+   Generated File[Updiy.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:03:30 On 2023-08-23

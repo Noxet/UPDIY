@@ -82,13 +82,138 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSNFPHOS
 
-[Parameter1]
-Name=Title
-Value=UPDIY
+[Document3]
+DocumentPath=Updiy.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[Parameter2]
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Updiy\Design Rule Check - Updiy.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=.\Manufacturing\NC Drill\Updiy.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\Manufacturing\Updiy.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=.\Manufacturing\Gerber\Updiy.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Free Documents\Manufacturing\Updiy.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\Manufacturing\Gerber\Updiy.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\Manufacturing\Updiy.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=.\Manufacturing\Gerber\Updiy.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Free Documents\Manufacturing\Updiy.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=.\Manufacturing\Gerber\Updiy.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Free Documents\Manufacturing\Updiy.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=.\Manufacturing\Gerber\Updiy.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Free Documents\Manufacturing\Updiy.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=.\Manufacturing\Gerber\Updiy.GM
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Free Documents\Manufacturing\Updiy.GM
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=.\Manufacturing\Gerber\Updiy.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Free Documents\Manufacturing\Updiy.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=.\Manufacturing\Gerber\Updiy.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Free Documents\Manufacturing\Updiy.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=.\Manufacturing\Gerber\Updiy.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Free Documents\Manufacturing\Updiy.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=.\Manufacturing\NC Drill\Updiy.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\Manufacturing\Gerber\Updiy.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=.\Manufacturing\Gerber\Updiy.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Free Documents\Manufacturing\Updiy.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=.\Manufacturing\NC Drill\Updiy.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Free Documents\Manufacturing\Updiy.TXT
+DItemRevisionGUID=
+
+[Parameter1]
 Name=Revision
 Value=1.0
+
+[Parameter2]
+Name=Title
+Value=UPDIY
 
 [Configuration1]
 Name=Sources
