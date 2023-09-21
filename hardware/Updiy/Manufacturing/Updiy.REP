@@ -44,24 +44,25 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Updiy.GBS
+Generating : Bottom Overlay
+      File : Updiy.GBO
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D15
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Updiy.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D11
 *************************************************************
 
 *************************************************************
@@ -82,28 +83,6 @@ Used DCodes :
     D44
     D45
     D46
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Updiy.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Updiy.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
 *************************************************************
 
 *************************************************************
@@ -129,6 +108,27 @@ Used DCodes :
     D20
     D21
     D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Updiy.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
     D23
     D24
     D25
